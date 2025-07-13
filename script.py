@@ -31,7 +31,7 @@ def main():
 
     print("On Process Ladsss")
 
-    # tentukan perintah berdasarkan OS
+    # mententukan perintah berdasarkan OS user
     param = "-n" if platform.system().lower() == "windows" else "-c"
     command = ["ping", param, str(count), target] 
 
