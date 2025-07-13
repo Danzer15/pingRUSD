@@ -1,6 +1,6 @@
 pingRUSD
 
-Rincian : 
+Details : 
 A simple Python tool to do ping tests to a host or domain right from the terminal — works on Windows, Linux, or macOS.
 
 # Features
@@ -19,6 +19,6 @@ A simple Python tool to do ping tests to a host or domain right from the termina
 
 ---
 
-## 🚀 Cara Menjalankan
+## How To Run
 
 --- Coming Soon ---
